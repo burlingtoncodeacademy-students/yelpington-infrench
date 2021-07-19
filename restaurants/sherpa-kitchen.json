@@ -1,0 +1,11 @@
+[
+  {
+    "id": "sherpa-kitchen",
+    "name": "Sherpa Kitchen",
+    "address": "119 College St",
+    "number": "(802) 881-0550",
+    "hours": "11:00AM-2:00PM, 5:00PM-9:00PM",
+    "notes": "good nepalese food",
+    "coords": [44.4768716, -73.2151128]
+  }
+]

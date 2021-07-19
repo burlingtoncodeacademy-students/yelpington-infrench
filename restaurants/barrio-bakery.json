@@ -1,0 +1,11 @@
+[
+  {
+    "id": "barrio-bakery",
+    "name": "Barrio Bakery",
+    "address": "197 N Winooski Ave",
+    "number": "(802) 863-8278",
+    "hours": "7:00AM - 3:00PM",
+    "notes": "Good coffee",
+    "coords": [44.4858903, -73.21061754798869]
+  }
+]

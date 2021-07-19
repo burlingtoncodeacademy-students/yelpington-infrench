@@ -1,0 +1,73 @@
+[
+  {
+    "id": "american-flatbread",
+    "name": "American Flatbread",
+    "address": "115 St Paul St",
+    "number": "(802) 861-2999",
+    "hours": "4:00-10:00PM",
+    "coords": [44.47655925, -73.21435285244789]
+  },
+  {
+    "id": "barrio-bakery",
+    "name": "Barrio Bakery",
+    "address": "197 N Winooski Ave",
+    "number": "(802) 863-8278",
+    "hours": "7:00AM - 3:00PM",
+    "notes": "Good coffee",
+    "coords": [44.4858903, -73.21061754798869]
+  },
+  {
+    "id": "farmhouse",
+    "name": "The Farmhouse Tap & Grill",
+    "address": "160 Bank St",
+    "number": "(802) 859-0888",
+    "hours": "4:00 - 10:00",
+    "notes": "Farm-to-table gastropub",
+    "coords": [44.47840574999999, -73.21329562432919]
+  },
+  {
+    "id": "henrys-diner",
+    "name": "Henry's Diner",
+    "address": "115 Bank St",
+    "number": "(802) 862-9010",
+    "hours": "6:00AM - 2:00PM",
+    "notes": ["Great breakfast skillets"],
+    "coords": [44.478007399999996, -73.21351552613982]
+  },
+  {
+    "id": "kismayo-kitchen",
+    "name": "Kismayo Kitchen",
+    "address": "505 Riverside Ave",
+    "number": "(802) 448-3032",
+    "hours": "11:00AM - 8:00PM",
+    "notes": ["Incredible Somalian cuisine", "Large portions at great prices"],
+    "coords": [44.48905365, -73.20202195]
+  },
+  {
+    "id": "pho-hong",
+    "name": "Pho Hong",
+    "address": "325 N Winooski Ave",
+    "number": "(802) 865-8031",
+    "hours": "11:00AM-4:00PM, 5:00PM-10:00PM",
+    "notes": "Best Pho in Burlington",
+    "coords": [44.4889265, -73.207074]
+  },
+  {
+    "id": "sherpa-kitchen",
+    "name": "Sherpa Kitchen",
+    "address": "119 College St",
+    "number": "(802) 881-0550",
+    "hours": "11:00AM-2:00PM, 5:00PM-9:00PM",
+    "notes": "good nepalese food",
+    "coords": [44.4768716, -73.2151128]
+  },
+  {
+    "id": "taco-gordo",
+    "name": "Taco Gordo",
+    "address": "208 N Winooski Ave",
+    "number": "(802) 540-0770",
+    "hours": "4:30 - 10:00PM",
+    "notes": "Good burritos and tacos",
+    "coords": [44.48598835, -73.20991338043407]
+  }
+]

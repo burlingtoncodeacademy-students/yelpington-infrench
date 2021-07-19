@@ -1,0 +1,11 @@
+[
+  {
+    "id": "american-flatbread",
+    "name": "American Flatbread",
+    "address": "115 St Paul St",
+    "number": "(802) 861-2999",
+    "hours": "4:00-10:00PM",
+    "notes": "All natural wood-fired pizza",
+    "coords": [44.47655925, -73.21435285244789]
+  }
+]
