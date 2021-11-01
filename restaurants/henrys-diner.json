@@ -1,0 +1,11 @@
+[
+  {
+    "id": "henrys-diner",
+    "name": "Henry's Diner",
+    "address": "115 Bank St",
+    "number": "(802) 862-9010",
+    "hours": "6:00AM - 2:00PM",
+    "notes": ["Great breakfast skillets"],
+    "coords": [44.478007399999996, -73.21351552613982]
+  }
+]

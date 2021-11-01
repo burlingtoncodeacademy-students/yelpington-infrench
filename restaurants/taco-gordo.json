@@ -1,0 +1,11 @@
+[
+  {
+    "id": "taco-gordo",
+    "name": "Taco Gordo",
+    "address": "208 N Winooski Ave",
+    "number": "(802) 540-0770",
+    "hours": "4:30 - 10:00PM",
+    "notes": "Good burritos and tacos",
+    "coords": [44.48598835, -73.20991338043407]
+  }
+]

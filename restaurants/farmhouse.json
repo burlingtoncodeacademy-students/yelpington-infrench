@@ -1,0 +1,11 @@
+[
+  {
+    "id": "farmhouse",
+    "name": "The Farmhouse Tap & Grill",
+    "address": "160 Bank St",
+    "number": "(802) 859-0888",
+    "hours": "4:00 - 10:00",
+    "notes": "Farm-to-table gastropub",
+    "coords": [44.47840574999999, -73.21329562432919]
+  }
+]
